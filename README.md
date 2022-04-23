@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vicky2603
 - 👀 Interested in Python and PHP Language!
-- 🌱 Currently learning API and Django Rest Framework
+- 🌱 Exploring API, Django Rest Framework and Trading stuffs
 - 📫 How to reach me? ... text me vickysharma5008@gmail.com
 
 <!---
