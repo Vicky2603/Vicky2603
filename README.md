@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vicky Sharma,
 - 👀 Interested in Python and PHP Language!
 - 🖥 Interested in Web/PDF Scraping and Backend development. 
-  ------ For Web/PDF Scraping : Techstacks -> BeautifulSoup, Scrapy, and Selenium-Python.
-  ------ For Backend Dev : Techstacks -> Django and Django Rest Framework
+1.  ------ For Web/PDF Scraping : Techstacks -> BeautifulSoup, Scrapy, and Selenium-Python.
+2.  ------ For Backend Dev : Techstacks -> Django and Django Rest Framework
 
 - 🖼 Hobbies: Trade, Travel, Explore, Ride. 
 - 🤩 Like to spend free time in:
