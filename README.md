@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vicky2603
 - 👀 Interested in Python and PHP Language!
-- 🌱 Exploring API, Django Rest Framework and Trading stuffs
+- 🌱 Expertise in Web Scraping and Backend Dev. Tech stacks: BeautifulSoup, Scrapy, Selenium-Python and Django.
+- 🖥
 - 📫 How to reach me? ... text me vickysharma5008@gmail.com
 
 <!---
