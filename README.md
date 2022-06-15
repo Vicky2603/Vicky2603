@@ -6,8 +6,8 @@
 
 - 🖼 Hobbies: Trade, Travel, Explore, Ride. 
 - 🤩 Like to spend free time in:
--  ----- Sports like Volleyball, Table Tennis and Cricket 🏐🏓🏏. 
--  ----- NSE/BSE 📈📉 -> trading
+  -  ----- Sports like Volleyball, Table Tennis and Cricket 🏐🏓🏏. 
+  -  ----- NSE/BSE 📈📉 -> trading
 
 - 📫 How to reach me? ... Mail at -> vickysharma5008@gmail.com
 - More about me, know here -> https://www.linkedin.com/in/vickysharma26/
